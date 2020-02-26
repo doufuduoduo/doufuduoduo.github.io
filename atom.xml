@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>豆腐多多的博客</title>
   
-  <subtitle>走的太远别忘了当成为什么出发。</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wulianpu.cn/"/>
-  <updated>2020-02-26T03:30:32.008Z</updated>
+  <updated>2020-02-26T05:00:14.254Z</updated>
   <id>http://wulianpu.cn/</id>
   
   <author>
@@ -21,13 +21,23 @@
     <link href="http://wulianpu.cn/2020/02/26/RabbitMQ/"/>
     <id>http://wulianpu.cn/2020/02/26/RabbitMQ/</id>
     <published>2020-02-26T03:30:31.000Z</published>
-    <updated>2020-02-26T03:30:32.008Z</updated>
+    <updated>2020-02-26T05:00:14.254Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;RabbitMQ&quot;&gt;&lt;a href=&quot;#RabbitMQ&quot; class=&quot;headerlink&quot; title=&quot;RabbitMQ&quot;&gt;&lt;/a&gt;RabbitMQ&lt;/h1&gt;&lt;h2 id=&quot;1-概述&quot;&gt;&lt;a href=&quot;#1-概述&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
     
+    
+      <category term="RabbitMQ" scheme="http://wulianpu.cn/tags/RabbitMQ/"/>
     
   </entry>
   
