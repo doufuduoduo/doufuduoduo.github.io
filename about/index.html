@@ -76,6 +76,7 @@
   </style>
 </noscript>
 
+<link rel="alternate" href="/atom.xml" title="豆腐多多的博客" type="application/atom+xml">
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -101,6 +102,7 @@
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
+        <p class="site-subtitle">走的太远别忘了当成为什么出发。</p>
   </div>
 
   <div class="site-nav-right">
@@ -130,7 +132,7 @@
   </li>
         <li class="menu-item menu-item-archives">
 
-    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档<span class="badge">0</span></a>
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档<span class="badge">1</span></a>
 
   </li>
         <li class="menu-item menu-item-about">
@@ -257,6 +259,13 @@
 </div>
 <div class="site-state-wrap motion-element">
   <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">1</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
   </nav>
 </div>
   <div class="links-of-author motion-element">
@@ -345,6 +354,25 @@
 
 
 
+<script>
+if (document.querySelectorAll('div.pdf').length) {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/pdfobject@2/pdfobject.min.js', () => {
+    document.querySelectorAll('div.pdf').forEach(element => {
+      PDFObject.embed(element.getAttribute('target'), element, {
+        pdfOpenParams: {
+          navpanes : 0,
+          toolbar  : 0,
+          statusbar: 0,
+          pagemode : 'thumbs',
+          view     : 'FitH'
+        },
+        PDFJS_URL: '/lib/pdf/web/viewer.html',
+        height: element.getAttribute('height') || '500px'
+      });
+    });
+  }, window.PDFObject);
+}
+</script>
 
 
 

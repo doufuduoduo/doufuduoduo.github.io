@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>豆腐多多的博客</title>
+  
+  <subtitle>走的太远别忘了当成为什么出发。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wulianpu.cn/"/>
+  <updated>2020-02-26T03:30:32.008Z</updated>
+  <id>http://wulianpu.cn/</id>
+  
+  <author>
+    <name>豆腐多多</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RabbitMQ</title>
+    <link href="http://wulianpu.cn/2020/02/26/RabbitMQ/"/>
+    <id>http://wulianpu.cn/2020/02/26/RabbitMQ/</id>
+    <published>2020-02-26T03:30:31.000Z</published>
+    <updated>2020-02-26T03:30:32.008Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
