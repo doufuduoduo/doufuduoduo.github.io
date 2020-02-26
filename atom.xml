@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wulianpu.cn/"/>
-  <updated>2020-02-26T05:00:14.254Z</updated>
+  <updated>2020-02-26T08:17:49.486Z</updated>
   <id>http://wulianpu.cn/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>RabbitMQ</title>
     <link href="http://wulianpu.cn/2020/02/26/RabbitMQ/"/>
     <id>http://wulianpu.cn/2020/02/26/RabbitMQ/</id>
-    <published>2020-02-26T03:30:31.000Z</published>
-    <updated>2020-02-26T05:00:14.254Z</updated>
+    <published>2020-02-26T08:13:56.000Z</published>
+    <updated>2020-02-26T08:17:49.486Z</updated>
     
     <summary type="html">
     
@@ -36,8 +36,12 @@
     </summary>
     
     
+      <category term="RabbitMQ" scheme="http://wulianpu.cn/categories/RabbitMQ/"/>
+    
     
       <category term="RabbitMQ" scheme="http://wulianpu.cn/tags/RabbitMQ/"/>
+    
+      <category term="MQ" scheme="http://wulianpu.cn/tags/MQ/"/>
     
   </entry>
   
